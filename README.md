@@ -62,3 +62,14 @@ COGTRACE is intentionally minimal. It is built for clarity logging without disru
 It is quietly designed for individuals who want control over their cognitive data without friction.
 
 This project is vibe-coded and extendable. It will remain lightweight by default.
+
+
+## Version History
+
+**v0.2**  
+First public prototype. Local clarity tracker built with FreeSimpleGUI.  
+Focus on minimal UX, local logging, and extendable architecture.
+
+**v0.1**  
+Internal-only experimental version.  
+Explored passive input tracking but was retired in favor of a user-initiated model.
