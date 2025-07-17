@@ -40,7 +40,9 @@ Each time you submit a clarity rating, the following is appended to cogtrace_log
 ## File Structure
 
 cogtrace_mvp.py — Main GUI script
+
 cogtrace_log.json — Data log of clarity ratings
+
 requirements.txt — Dependency list for pip install
 
 
