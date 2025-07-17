@@ -4,6 +4,7 @@ COGTRACE is a minimalist cognitive clarity tracker built in Python. It offers a 
 
 This is version 0.2, the first stable prototype. It is designed to serve as a clean and expandable foundation for future cognitive-state tools.
 
+
 ## Overview
 
 Presents a local slider-based GUI
@@ -14,11 +15,13 @@ Logs all entries with timestamps to a local JSON file
 
 Built to be extended with optional analytics, exports, and additional inputs
 
+
 ## Installation
 
 Requires Python 3.7 or higher.
 
 pip install FreeSimpleGUI
+
 
 ## Usage
 
@@ -33,17 +36,22 @@ Each time you submit a clarity rating, the following is appended to cogtrace_log
 "clarity": 7
 }
 
+
 ## File Structure
 
 cogtrace_mvp.py — Main GUI script
 cogtrace_log.json — Data log of clarity ratings
 requirements.txt — Dependency list for pip install
 
+
 ## Upcoming Additions
 
 analyze_log.py — plots and trends over time
+
 Additional sliders (fatigue, focus, sharpness)
+
 Export functionality for CSV or Notion integration
+
 
 ## Philosophy
 
