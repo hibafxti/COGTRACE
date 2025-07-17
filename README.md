@@ -14,13 +14,13 @@ Logs all entries with timestamps to a local JSON file
 
 Built to be extended with optional analytics, exports, and additional inputs
 
-# Installation
+## Installation
 
 Requires Python 3.7 or higher.
 
 pip install FreeSimpleGUI
 
-# Usage
+## Usage
 
 Run the script from terminal:
 
@@ -33,19 +33,19 @@ Each time you submit a clarity rating, the following is appended to cogtrace_log
 "clarity": 7
 }
 
-# File Structure
+## File Structure
 
 cogtrace_mvp.py — Main GUI script
 cogtrace_log.json — Data log of clarity ratings
 requirements.txt — Dependency list for pip install
 
-# Upcoming Additions
+## Upcoming Additions
 
 analyze_log.py — plots and trends over time
 Additional sliders (fatigue, focus, sharpness)
 Export functionality for CSV or Notion integration
 
-# Philosophy
+## Philosophy
 
 COGTRACE is intentionally minimal. It is built for clarity logging without disruption. No coaching, no gamification. Just one input, one timestamp, one clean record.
 
