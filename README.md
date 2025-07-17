@@ -4,7 +4,7 @@ COGTRACE is a minimalist cognitive clarity tracker built in Python. It offers a 
 
 This is version 0.2, the first stable prototype. It is designed to serve as a clean and expandable foundation for future cognitive-state tools.
 
-# Overview
+## Overview
 
 Presents a local slider-based GUI
 
